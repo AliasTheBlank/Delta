@@ -1,0 +1,12 @@
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Release\net6.0\DeltaBicycles.Business.deps.json
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Release\net6.0\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Release\net6.0\ref\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Release\net6.0\DeltaBicycles.Business.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.csproj.AssemblyReference.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.AssemblyInfoInputs.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.AssemblyInfo.cs
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\ref\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Release\net6.0\DeltaBicycles.Business.pdb

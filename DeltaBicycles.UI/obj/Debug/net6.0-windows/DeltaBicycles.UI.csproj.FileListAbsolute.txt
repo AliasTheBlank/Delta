@@ -1,0 +1,52 @@
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.AssemblyReference.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.MainForm.resources
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.GenerateResource.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.AssemblyInfoInputs.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.AssemblyInfo.cs
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.CoreCompileInputs.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.exe
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.deps.json
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.runtimeconfig.json
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\ref\DeltaBicycles.UI.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.LoginForm.resources
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.MountainBikesForm.resources
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.RoadBikesForm.resources
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\ref\DeltaBicycles.UI.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.genruntimeconfig.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.Properties.Resources.resources
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Data.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Business.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Data.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.CopyComplete
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.exe
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.deps.json
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.runtimeconfig.json
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.UI.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Business.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Data.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Business.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\bin\Debug\net6.0-windows\DeltaBicycles.Data.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.AssemblyReference.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.LoginForm.resources
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.MainForm.resources
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.MountainBikesForm.resources
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.Properties.Resources.resources
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.RoadBikesForm.resources
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.GenerateResource.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.AssemblyInfoInputs.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.AssemblyInfo.cs
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.CoreCompileInputs.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.csproj.CopyComplete
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\refint\DeltaBicycles.UI.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\DeltaBicycles.UI.genruntimeconfig.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.UI\obj\Debug\net6.0-windows\ref\DeltaBicycles.UI.dll

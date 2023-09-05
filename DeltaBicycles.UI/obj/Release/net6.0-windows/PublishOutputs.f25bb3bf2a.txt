@@ -1,0 +1,9 @@
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.UI.exe
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.UI.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.UI.deps.json
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.UI.runtimeconfig.json
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.UI.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.Data.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.Business.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.UI\bin\publish\DeltaBicycles.Data.pdb

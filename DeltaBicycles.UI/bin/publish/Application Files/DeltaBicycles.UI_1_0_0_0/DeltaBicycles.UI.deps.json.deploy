@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeltaBicycles.UI/1.0.0": {
+        "dependencies": {
+          "DeltaBicycles.Business": "1.0.0",
+          "DeltaBicycles.Data": "1.0.0"
+        },
+        "runtime": {
+          "DeltaBicycles.UI.dll": {}
+        }
+      },
+      "DeltaBicycles.Business/1.0.0": {
+        "runtime": {
+          "DeltaBicycles.Business.dll": {}
+        }
+      },
+      "DeltaBicycles.Data/1.0.0": {
+        "dependencies": {
+          "DeltaBicycles.Business": "1.0.0"
+        },
+        "runtime": {
+          "DeltaBicycles.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeltaBicycles.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeltaBicycles.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeltaBicycles.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

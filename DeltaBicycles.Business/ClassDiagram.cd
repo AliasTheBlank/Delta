@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeltaBicycles.Business.Bike" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAABEAIAAAAAghEIAAAAAAAAIAAAEgAgAAAAAA=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeltaBicycles.Business.MountainBike" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeltaBicycles.Business.RoadBike" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeltaBicycles.Business.Users" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAAAQgEAAAAAAAAAIACAEIAAAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DeltaBicycles.Business.Validator" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAQAAAABBAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DeltaBicycles.Business.Interface.IValidatable" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IValidatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DeltaBicycles.Business.Enums.ESuspensionType" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Enums\ESuspensionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DeltaBicycles.Business.Enums.ETireType" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAACA=</HashCode>
+      <FileName>Enums\ETireType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DeltaBicycles.Business.Enums.EColor" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAACA=</HashCode>
+      <FileName>Enums\EColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="DeltaBicycles.Business.Delegates.Notify" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegates\Notify.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

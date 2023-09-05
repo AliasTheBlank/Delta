@@ -1,0 +1,24 @@
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Debug\net6.0\DeltaBicycles.Business.deps.json
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Debug\net6.0\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Debug\net6.0\ref\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\bin\Debug\net6.0\DeltaBicycles.Business.pdb
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.csproj.AssemblyReference.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.AssemblyInfoInputs.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.AssemblyInfo.cs
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\ref\DeltaBicycles.Business.dll
+C:\Users\Fran Vargas\Desktop\c#\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\bin\Debug\net6.0\DeltaBicycles.Business.deps.json
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\bin\Debug\net6.0\DeltaBicycles.Business.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\bin\Debug\net6.0\DeltaBicycles.Business.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.csproj.AssemblyReference.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.AssemblyInfoInputs.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.AssemblyInfo.cs
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.csproj.CoreCompileInputs.cache
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\refint\DeltaBicycles.Business.dll
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\DeltaBicycles.Business.pdb
+C:\Users\franv\Downloads\20220421181723_Francisco_Vargas_Final_Project\Delta\DeltaBicycles.Business\obj\Debug\net6.0\ref\DeltaBicycles.Business.dll
